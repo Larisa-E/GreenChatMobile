@@ -1,0 +1,664 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\GreenChatMobile\\GreenChatMobileMaui\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{034DA586-4A7C-4466-9C44-28A58D784FC3}|GreenChatMobileMaui\\GreenChatMobileMaui.csproj|c:\\xampp\\htdocs\\greenchatmobile\\greenchatmobilemaui\\greenchatmobilemaui\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{034DA586-4A7C-4466-9C44-28A58D784FC3}|GreenChatMobileMaui\\GreenChatMobileMaui.csproj|solutionrelative:greenchatmobilemaui\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135FBA9E-1CC2-3315-50C4-2C6685740DF1}|..\\..\\GreenChat\\GreenChat.csproj|c:\\xampp\\htdocs\\greenchat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034DA586-4A7C-4466-9C44-28A58D784FC3}|GreenChatMobileMaui\\GreenChatMobileMaui.csproj|c:\\xampp\\htdocs\\greenchatmobile\\greenchatmobilemaui\\greenchatmobilemaui\\chatpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{034DA586-4A7C-4466-9C44-28A58D784FC3}|GreenChatMobileMaui\\GreenChatMobileMaui.csproj|solutionrelative:greenchatmobilemaui\\chatpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135FBA9E-1CC2-3315-50C4-2C6685740DF1}|..\\..\\GreenChat\\GreenChat.csproj|c:\\xampp\\htdocs\\greenchat\\models\\discussionthread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135FBA9E-1CC2-3315-50C4-2C6685740DF1}|..\\..\\GreenChat\\GreenChat.csproj|c:\\xampp\\htdocs\\greenchat\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135FBA9E-1CC2-3315-50C4-2C6685740DF1}|..\\..\\GreenChat\\GreenChat.csproj|c:\\xampp\\htdocs\\greenchat\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135FBA9E-1CC2-3315-50C4-2C6685740DF1}|..\\..\\GreenChat\\GreenChat.csproj|c:\\xampp\\htdocs\\greenchat\\controllers\\api\\authapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135FBA9E-1CC2-3315-50C4-2C6685740DF1}|..\\..\\GreenChat\\GreenChat.csproj|c:\\xampp\\htdocs\\greenchat\\controllers\\api\\threadsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135FBA9E-1CC2-3315-50C4-2C6685740DF1}|..\\..\\GreenChat\\GreenChat.csproj|c:\\xampp\\htdocs\\greenchat\\controllers\\api\\chatapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034DA586-4A7C-4466-9C44-28A58D784FC3}|GreenChatMobileMaui\\GreenChatMobileMaui.csproj|c:\\xampp\\htdocs\\greenchatmobile\\greenchatmobilemaui\\greenchatmobilemaui\\greenchatmobilemaui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{034DA586-4A7C-4466-9C44-28A58D784FC3}|GreenChatMobileMaui\\GreenChatMobileMaui.csproj|solutionrelative:greenchatmobilemaui\\greenchatmobilemaui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034DA586-4A7C-4466-9C44-28A58D784FC3}|GreenChatMobileMaui\\GreenChatMobileMaui.csproj|c:\\xampp\\htdocs\\greenchatmobile\\greenchatmobilemaui\\greenchatmobilemaui\\chatpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{034DA586-4A7C-4466-9C44-28A58D784FC3}|GreenChatMobileMaui\\GreenChatMobileMaui.csproj|solutionrelative:greenchatmobilemaui\\chatpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034DA586-4A7C-4466-9C44-28A58D784FC3}|GreenChatMobileMaui\\GreenChatMobileMaui.csproj|c:\\xampp\\htdocs\\greenchatmobile\\greenchatmobilemaui\\greenchatmobilemaui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{034DA586-4A7C-4466-9C44-28A58D784FC3}|GreenChatMobileMaui\\GreenChatMobileMaui.csproj|solutionrelative:greenchatmobilemaui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135FBA9E-1CC2-3315-50C4-2C6685740DF1}|..\\..\\GreenChat\\GreenChat.csproj|c:\\xampp\\htdocs\\greenchat\\greenchat.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034DA586-4A7C-4466-9C44-28A58D784FC3}|GreenChatMobileMaui\\GreenChatMobileMaui.csproj|c:\\xampp\\htdocs\\greenchatmobile\\greenchatmobilemaui\\greenchatmobilemaui\\models\\threadsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{034DA586-4A7C-4466-9C44-28A58D784FC3}|GreenChatMobileMaui\\GreenChatMobileMaui.csproj|solutionrelative:greenchatmobilemaui\\models\\threadsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034DA586-4A7C-4466-9C44-28A58D784FC3}|GreenChatMobileMaui\\GreenChatMobileMaui.csproj|c:\\xampp\\htdocs\\greenchatmobile\\greenchatmobilemaui\\greenchatmobilemaui\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{034DA586-4A7C-4466-9C44-28A58D784FC3}|GreenChatMobileMaui\\GreenChatMobileMaui.csproj|solutionrelative:greenchatmobilemaui\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034DA586-4A7C-4466-9C44-28A58D784FC3}|GreenChatMobileMaui\\GreenChatMobileMaui.csproj|c:\\xampp\\htdocs\\greenchatmobile\\greenchatmobilemaui\\greenchatmobilemaui\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{034DA586-4A7C-4466-9C44-28A58D784FC3}|GreenChatMobileMaui\\GreenChatMobileMaui.csproj|solutionrelative:greenchatmobilemaui\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034DA586-4A7C-4466-9C44-28A58D784FC3}|GreenChatMobileMaui\\GreenChatMobileMaui.csproj|c:\\xampp\\htdocs\\greenchatmobile\\greenchatmobilemaui\\greenchatmobilemaui\\models\\discussionthread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{034DA586-4A7C-4466-9C44-28A58D784FC3}|GreenChatMobileMaui\\GreenChatMobileMaui.csproj|solutionrelative:greenchatmobilemaui\\models\\discussionthread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034DA586-4A7C-4466-9C44-28A58D784FC3}|GreenChatMobileMaui\\GreenChatMobileMaui.csproj|c:\\xampp\\htdocs\\greenchatmobile\\greenchatmobilemaui\\greenchatmobilemaui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{034DA586-4A7C-4466-9C44-28A58D784FC3}|GreenChatMobileMaui\\GreenChatMobileMaui.csproj|solutionrelative:greenchatmobilemaui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034DA586-4A7C-4466-9C44-28A58D784FC3}|GreenChatMobileMaui\\GreenChatMobileMaui.csproj|c:\\xampp\\htdocs\\greenchatmobile\\greenchatmobilemaui\\greenchatmobilemaui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{034DA586-4A7C-4466-9C44-28A58D784FC3}|GreenChatMobileMaui\\GreenChatMobileMaui.csproj|solutionrelative:greenchatmobilemaui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034DA586-4A7C-4466-9C44-28A58D784FC3}|GreenChatMobileMaui\\GreenChatMobileMaui.csproj|c:\\xampp\\htdocs\\greenchatmobile\\greenchatmobilemaui\\greenchatmobilemaui\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{034DA586-4A7C-4466-9C44-28A58D784FC3}|GreenChatMobileMaui\\GreenChatMobileMaui.csproj|solutionrelative:greenchatmobilemaui\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034DA586-4A7C-4466-9C44-28A58D784FC3}|GreenChatMobileMaui\\GreenChatMobileMaui.csproj|c:\\xampp\\htdocs\\greenchatmobile\\greenchatmobilemaui\\greenchatmobilemaui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{034DA586-4A7C-4466-9C44-28A58D784FC3}|GreenChatMobileMaui\\GreenChatMobileMaui.csproj|solutionrelative:greenchatmobilemaui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034DA586-4A7C-4466-9C44-28A58D784FC3}|GreenChatMobileMaui\\GreenChatMobileMaui.csproj|c:\\xampp\\htdocs\\greenchatmobile\\greenchatmobilemaui\\greenchatmobilemaui\\discussionspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{034DA586-4A7C-4466-9C44-28A58D784FC3}|GreenChatMobileMaui\\GreenChatMobileMaui.csproj|solutionrelative:greenchatmobilemaui\\discussionspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034DA586-4A7C-4466-9C44-28A58D784FC3}|GreenChatMobileMaui\\GreenChatMobileMaui.csproj|c:\\xampp\\htdocs\\greenchatmobile\\greenchatmobilemaui\\greenchatmobilemaui\\discussionspage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{034DA586-4A7C-4466-9C44-28A58D784FC3}|GreenChatMobileMaui\\GreenChatMobileMaui.csproj|solutionrelative:greenchatmobilemaui\\discussionspage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034DA586-4A7C-4466-9C44-28A58D784FC3}|GreenChatMobileMaui\\GreenChatMobileMaui.csproj|c:\\xampp\\htdocs\\greenchatmobile\\greenchatmobilemaui\\greenchatmobilemaui\\loginpage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{034DA586-4A7C-4466-9C44-28A58D784FC3}|GreenChatMobileMaui\\GreenChatMobileMaui.csproj|solutionrelative:greenchatmobilemaui\\loginpage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034DA586-4A7C-4466-9C44-28A58D784FC3}|GreenChatMobileMaui\\GreenChatMobileMaui.csproj|c:\\xampp\\htdocs\\greenchatmobile\\greenchatmobilemaui\\greenchatmobilemaui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{034DA586-4A7C-4466-9C44-28A58D784FC3}|GreenChatMobileMaui\\GreenChatMobileMaui.csproj|solutionrelative:greenchatmobilemaui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034DA586-4A7C-4466-9C44-28A58D784FC3}|GreenChatMobileMaui\\GreenChatMobileMaui.csproj|c:\\xampp\\htdocs\\greenchatmobile\\greenchatmobilemaui\\greenchatmobilemaui\\registerpage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{034DA586-4A7C-4466-9C44-28A58D784FC3}|GreenChatMobileMaui\\GreenChatMobileMaui.csproj|solutionrelative:greenchatmobilemaui\\registerpage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034DA586-4A7C-4466-9C44-28A58D784FC3}|GreenChatMobileMaui\\GreenChatMobileMaui.csproj|c:\\xampp\\htdocs\\greenchatmobile\\greenchatmobilemaui\\greenchatmobilemaui\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{034DA586-4A7C-4466-9C44-28A58D784FC3}|GreenChatMobileMaui\\GreenChatMobileMaui.csproj|solutionrelative:greenchatmobilemaui\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034DA586-4A7C-4466-9C44-28A58D784FC3}|GreenChatMobileMaui\\GreenChatMobileMaui.csproj|c:\\xampp\\htdocs\\greenchatmobile\\greenchatmobilemaui\\greenchatmobilemaui\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{034DA586-4A7C-4466-9C44-28A58D784FC3}|GreenChatMobileMaui\\GreenChatMobileMaui.csproj|solutionrelative:greenchatmobilemaui\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\63336\\.nuget\\packages\\microsoft.windowsappsdk\\1.6.250205002\\include\\UndockedRegFreeWinRT-AutoInitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034DA586-4A7C-4466-9C44-28A58D784FC3}|GreenChatMobileMaui\\GreenChatMobileMaui.csproj|c:\\xampp\\htdocs\\greenchatmobile\\greenchatmobilemaui\\greenchatmobilemaui\\chatpage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{034DA586-4A7C-4466-9C44-28A58D784FC3}|GreenChatMobileMaui\\GreenChatMobileMaui.csproj|solutionrelative:greenchatmobilemaui\\chatpage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034DA586-4A7C-4466-9C44-28A58D784FC3}|GreenChatMobileMaui\\GreenChatMobileMaui.csproj|c:\\xampp\\htdocs\\greenchatmobile\\greenchatmobilemaui\\greenchatmobilemaui\\registerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{034DA586-4A7C-4466-9C44-28A58D784FC3}|GreenChatMobileMaui\\GreenChatMobileMaui.csproj|solutionrelative:greenchatmobilemaui\\registerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\GreenChatMobile\\GreenChatMobileMaui\\ApiService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\GreenChatMobile\\GreenChatMobileMaui\\MauiProgram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MauiProgram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135FBA9E-1CC2-3315-50C4-2C6685740DF1}|..\\..\\GreenChat\\GreenChat.csproj|c:\\xampp\\htdocs\\greenchat\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135FBA9E-1CC2-3315-50C4-2C6685740DF1}|..\\..\\GreenChat\\GreenChat.csproj|c:\\xampp\\htdocs\\greenchat\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135FBA9E-1CC2-3315-50C4-2C6685740DF1}|..\\..\\GreenChat\\GreenChat.csproj|c:\\xampp\\htdocs\\greenchat\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135FBA9E-1CC2-3315-50C4-2C6685740DF1}|..\\..\\GreenChat\\GreenChat.csproj|c:\\xampp\\htdocs\\greenchat\\controllers\\threadscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135FBA9E-1CC2-3315-50C4-2C6685740DF1}|..\\..\\GreenChat\\GreenChat.csproj|c:\\xampp\\htdocs\\greenchat\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\GreenChat\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\..\\GreenChat\\appsettings.json",
+              "ToolTip": "C:\\xampp\\htdocs\\GreenChat\\appsettings.json",
+              "RelativeToolTip": "..\\..\\GreenChat\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-12T12:11:43.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DiscussionThread.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\GreenChat\\Models\\DiscussionThread.cs",
+              "RelativeDocumentMoniker": "..\\..\\GreenChat\\Models\\DiscussionThread.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\GreenChat\\Models\\DiscussionThread.cs",
+              "RelativeToolTip": "..\\..\\GreenChat\\Models\\DiscussionThread.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T08:58:54.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChatPage.xaml.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\GreenChatMobile\\GreenChatMobileMaui\\GreenChatMobileMaui\\ChatPage.xaml.cs",
+              "RelativeDocumentMoniker": "GreenChatMobileMaui\\ChatPage.xaml.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\GreenChatMobile\\GreenChatMobileMaui\\GreenChatMobileMaui\\ChatPage.xaml.cs",
+              "RelativeToolTip": "GreenChatMobileMaui\\ChatPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T12:38:25.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\GreenChat\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\GreenChat\\Program.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\GreenChat\\Program.cs",
+              "RelativeToolTip": "..\\..\\GreenChat\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T06:57:00.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\GreenChatMobile\\GreenChatMobileMaui\\GreenChatMobileMaui\\Services\\ApiService.cs",
+              "RelativeDocumentMoniker": "GreenChatMobileMaui\\Services\\ApiService.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\GreenChatMobile\\GreenChatMobileMaui\\GreenChatMobileMaui\\Services\\ApiService.cs",
+              "RelativeToolTip": "GreenChatMobileMaui\\Services\\ApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T10:35:11.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ThreadsViewModel.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\GreenChatMobile\\GreenChatMobileMaui\\GreenChatMobileMaui\\Models\\ThreadsViewModel.cs",
+              "RelativeDocumentMoniker": "GreenChatMobileMaui\\Models\\ThreadsViewModel.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\GreenChatMobile\\GreenChatMobileMaui\\GreenChatMobileMaui\\Models\\ThreadsViewModel.cs",
+              "RelativeToolTip": "GreenChatMobileMaui\\Models\\ThreadsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T06:51:11.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\GreenChatMobile\\GreenChatMobileMaui\\GreenChatMobileMaui\\Models\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "GreenChatMobileMaui\\Models\\RegisterModel.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\GreenChatMobile\\GreenChatMobileMaui\\GreenChatMobileMaui\\Models\\RegisterModel.cs",
+              "RelativeToolTip": "GreenChatMobileMaui\\Models\\RegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T11:03:00.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ThreadsApiController.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\GreenChat\\Controllers\\Api\\ThreadsApiController.cs",
+              "RelativeDocumentMoniker": "..\\..\\GreenChat\\Controllers\\Api\\ThreadsApiController.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\GreenChat\\Controllers\\Api\\ThreadsApiController.cs",
+              "RelativeToolTip": "..\\..\\GreenChat\\Controllers\\Api\\ThreadsApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T08:53:36.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthApiController.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\GreenChat\\Controllers\\Api\\AuthApiController.cs",
+              "RelativeDocumentMoniker": "..\\..\\GreenChat\\Controllers\\Api\\AuthApiController.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\GreenChat\\Controllers\\Api\\AuthApiController.cs",
+              "RelativeToolTip": "..\\..\\GreenChat\\Controllers\\Api\\AuthApiController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwCkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T08:52:31.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\GreenChat\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\..\\GreenChat\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\xampp\\htdocs\\GreenChat\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\..\\GreenChat\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-27T06:39:56.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Microsoft.NET.Sdk.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.targets",
+              "ViewState": "AgIAAOsEAAAAAAAAAAAjwPAEAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-06-02T11:23:41.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChatApiController.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\GreenChat\\Controllers\\Api\\ChatApiController.cs",
+              "RelativeDocumentMoniker": "..\\..\\GreenChat\\Controllers\\Api\\ChatApiController.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\GreenChat\\Controllers\\Api\\ChatApiController.cs",
+              "RelativeToolTip": "..\\..\\GreenChat\\Controllers\\Api\\ChatApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T08:53:19.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\GreenChatMobile\\GreenChatMobileMaui\\GreenChatMobileMaui\\MainPage.xaml",
+              "RelativeDocumentMoniker": "GreenChatMobileMaui\\MainPage.xaml",
+              "ToolTip": "C:\\xampp\\htdocs\\GreenChatMobile\\GreenChatMobileMaui\\GreenChatMobileMaui\\MainPage.xaml",
+              "RelativeToolTip": "GreenChatMobileMaui\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-27T11:13:41.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ChatPage.xaml",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\GreenChatMobile\\GreenChatMobileMaui\\GreenChatMobileMaui\\ChatPage.xaml",
+              "RelativeDocumentMoniker": "GreenChatMobileMaui\\ChatPage.xaml",
+              "ToolTip": "C:\\xampp\\htdocs\\GreenChatMobile\\GreenChatMobileMaui\\GreenChatMobileMaui\\ChatPage.xaml",
+              "RelativeToolTip": "GreenChatMobileMaui\\ChatPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-02T12:12:51.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GreenChatMobileMaui.csproj",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\GreenChatMobile\\GreenChatMobileMaui\\GreenChatMobileMaui\\GreenChatMobileMaui.csproj",
+              "RelativeDocumentMoniker": "GreenChatMobileMaui\\GreenChatMobileMaui.csproj",
+              "ToolTip": "C:\\xampp\\htdocs\\GreenChatMobile\\GreenChatMobileMaui\\GreenChatMobileMaui\\GreenChatMobileMaui.csproj*",
+              "RelativeToolTip": "GreenChatMobileMaui\\GreenChatMobileMaui.csproj*",
+              "ViewState": "AgIAACgAAAAAAAAAAABBwEEAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-27T10:08:12.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GreenChat.csproj",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\GreenChat\\GreenChat.csproj",
+              "RelativeDocumentMoniker": "..\\..\\GreenChat\\GreenChat.csproj",
+              "ToolTip": "C:\\xampp\\htdocs\\GreenChat\\GreenChat.csproj",
+              "RelativeToolTip": "..\\..\\GreenChat\\GreenChat.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-02T11:03:04.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\GreenChatMobile\\GreenChatMobileMaui\\GreenChatMobileMaui\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "GreenChatMobileMaui\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\GreenChatMobile\\GreenChatMobileMaui\\GreenChatMobileMaui\\Models\\LoginModel.cs",
+              "RelativeToolTip": "GreenChatMobileMaui\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T11:04:18.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DiscussionThread.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\GreenChatMobile\\GreenChatMobileMaui\\GreenChatMobileMaui\\Models\\DiscussionThread.cs",
+              "RelativeDocumentMoniker": "GreenChatMobileMaui\\Models\\DiscussionThread.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\GreenChatMobile\\GreenChatMobileMaui\\GreenChatMobileMaui\\Models\\DiscussionThread.cs",
+              "RelativeToolTip": "GreenChatMobileMaui\\Models\\DiscussionThread.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T10:08:27.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\GreenChatMobile\\GreenChatMobileMaui\\GreenChatMobileMaui\\App.xaml.cs",
+              "RelativeDocumentMoniker": "GreenChatMobileMaui\\App.xaml.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\GreenChatMobile\\GreenChatMobileMaui\\GreenChatMobileMaui\\App.xaml.cs",
+              "RelativeToolTip": "GreenChatMobileMaui\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T12:29:31.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\GreenChatMobile\\GreenChatMobileMaui\\GreenChatMobileMaui\\App.xaml",
+              "RelativeDocumentMoniker": "GreenChatMobileMaui\\App.xaml",
+              "ToolTip": "C:\\xampp\\htdocs\\GreenChatMobile\\GreenChatMobileMaui\\GreenChatMobileMaui\\App.xaml",
+              "RelativeToolTip": "GreenChatMobileMaui\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-27T11:13:34.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\GreenChatMobile\\GreenChatMobileMaui\\GreenChatMobileMaui\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "GreenChatMobileMaui\\AppShell.xaml.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\GreenChatMobile\\GreenChatMobileMaui\\GreenChatMobileMaui\\AppShell.xaml.cs",
+              "RelativeToolTip": "GreenChatMobileMaui\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T12:29:37.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\GreenChatMobile\\GreenChatMobileMaui\\GreenChatMobileMaui\\AppShell.xaml",
+              "RelativeDocumentMoniker": "GreenChatMobileMaui\\AppShell.xaml",
+              "ToolTip": "C:\\xampp\\htdocs\\GreenChatMobile\\GreenChatMobileMaui\\GreenChatMobileMaui\\AppShell.xaml",
+              "RelativeToolTip": "GreenChatMobileMaui\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-27T11:13:31.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DiscussionsPage.xaml",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\GreenChatMobile\\GreenChatMobileMaui\\GreenChatMobileMaui\\DiscussionsPage.xaml",
+              "RelativeDocumentMoniker": "GreenChatMobileMaui\\DiscussionsPage.xaml",
+              "ToolTip": "C:\\xampp\\htdocs\\GreenChatMobile\\GreenChatMobileMaui\\GreenChatMobileMaui\\DiscussionsPage.xaml",
+              "RelativeToolTip": "GreenChatMobileMaui\\DiscussionsPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-02T12:12:30.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\GreenChatMobile\\GreenChatMobileMaui\\GreenChatMobileMaui\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "GreenChatMobileMaui\\LoginPage.xaml",
+              "ToolTip": "C:\\xampp\\htdocs\\GreenChatMobile\\GreenChatMobileMaui\\GreenChatMobileMaui\\LoginPage.xaml",
+              "RelativeToolTip": "GreenChatMobileMaui\\LoginPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-02T12:12:23.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\GreenChatMobile\\GreenChatMobileMaui\\GreenChatMobileMaui\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "GreenChatMobileMaui\\MauiProgram.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\GreenChatMobile\\GreenChatMobileMaui\\GreenChatMobileMaui\\MauiProgram.cs",
+              "RelativeToolTip": "GreenChatMobileMaui\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T09:03:32.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RegisterPage.xaml",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\GreenChatMobile\\GreenChatMobileMaui\\GreenChatMobileMaui\\RegisterPage.xaml",
+              "RelativeDocumentMoniker": "GreenChatMobileMaui\\RegisterPage.xaml",
+              "ToolTip": "C:\\xampp\\htdocs\\GreenChatMobile\\GreenChatMobileMaui\\GreenChatMobileMaui\\RegisterPage.xaml",
+              "RelativeToolTip": "GreenChatMobileMaui\\RegisterPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-02T12:12:03.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UndockedRegFreeWinRT-AutoInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\63336\\.nuget\\packages\\microsoft.windowsappsdk\\1.6.250205002\\include\\UndockedRegFreeWinRT-AutoInitializer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\63336\\.nuget\\packages\\microsoft.windowsappsdk\\1.6.250205002\\include\\UndockedRegFreeWinRT-AutoInitializer.cs",
+              "ToolTip": "C:\\Users\\63336\\.nuget\\packages\\microsoft.windowsappsdk\\1.6.250205002\\include\\UndockedRegFreeWinRT-AutoInitializer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\63336\\.nuget\\packages\\microsoft.windowsappsdk\\1.6.250205002\\include\\UndockedRegFreeWinRT-AutoInitializer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T12:07:06.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DiscussionsPage.xaml.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\GreenChatMobile\\GreenChatMobileMaui\\GreenChatMobileMaui\\DiscussionsPage.xaml.cs",
+              "RelativeDocumentMoniker": "GreenChatMobileMaui\\DiscussionsPage.xaml.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\GreenChatMobile\\GreenChatMobileMaui\\GreenChatMobileMaui\\DiscussionsPage.xaml.cs",
+              "RelativeToolTip": "GreenChatMobileMaui\\DiscussionsPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T12:39:49.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\GreenChatMobile\\GreenChatMobileMaui\\GreenChatMobileMaui\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "GreenChatMobileMaui\\MainPage.xaml.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\GreenChatMobile\\GreenChatMobileMaui\\GreenChatMobileMaui\\MainPage.xaml.cs",
+              "RelativeToolTip": "GreenChatMobileMaui\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T07:17:47.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\GreenChatMobile\\GreenChatMobileMaui\\GreenChatMobileMaui\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "GreenChatMobileMaui\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\GreenChatMobile\\GreenChatMobileMaui\\GreenChatMobileMaui\\LoginPage.xaml.cs",
+              "RelativeToolTip": "GreenChatMobileMaui\\LoginPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T12:34:25.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ChatPage.xaml",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\GreenChatMobile\\GreenChatMobileMaui\\GreenChatMobileMaui\\ChatPage.xaml",
+              "RelativeDocumentMoniker": "GreenChatMobileMaui\\ChatPage.xaml",
+              "ToolTip": "C:\\xampp\\htdocs\\GreenChatMobile\\GreenChatMobileMaui\\GreenChatMobileMaui\\ChatPage.xaml",
+              "RelativeToolTip": "GreenChatMobileMaui\\ChatPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-02T10:40:16.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RegisterPage.xaml.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\GreenChatMobile\\GreenChatMobileMaui\\GreenChatMobileMaui\\RegisterPage.xaml.cs",
+              "RelativeDocumentMoniker": "GreenChatMobileMaui\\RegisterPage.xaml.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\GreenChatMobile\\GreenChatMobileMaui\\GreenChatMobileMaui\\RegisterPage.xaml.cs",
+              "RelativeToolTip": "GreenChatMobileMaui\\RegisterPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T12:37:15.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\GreenChatMobile\\GreenChatMobileMaui\\ApiService.cs",
+              "RelativeDocumentMoniker": "ApiService.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\GreenChatMobile\\GreenChatMobileMaui\\ApiService.cs",
+              "RelativeToolTip": "ApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T08:39:10.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\GreenChatMobile\\GreenChatMobileMaui\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\GreenChatMobile\\GreenChatMobileMaui\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T09:22:07.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\GreenChat\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "..\\..\\GreenChat\\Hubs\\ChatHub.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\GreenChat\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "..\\..\\GreenChat\\Hubs\\ChatHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T06:40:17.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ThreadsController.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\GreenChat\\Controllers\\ThreadsController.cs",
+              "RelativeDocumentMoniker": "..\\..\\GreenChat\\Controllers\\ThreadsController.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\GreenChat\\Controllers\\ThreadsController.cs",
+              "RelativeToolTip": "..\\..\\GreenChat\\Controllers\\ThreadsController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T07:22:09.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\GreenChat\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\..\\GreenChat\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\GreenChat\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\..\\GreenChat\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T07:22:04.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\GreenChat\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "..\\..\\GreenChat\\Controllers\\ChatController.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\GreenChat\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "..\\..\\GreenChat\\Controllers\\ChatController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T07:22:01.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\GreenChat\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\GreenChat\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\xampp\\htdocs\\GreenChat\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "..\\..\\GreenChat\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T06:41:06.366Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

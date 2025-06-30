@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GreenChatMobileMaui.MainPage"
+             BackgroundColor="#E6F2E6">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="24,36" Spacing="28">
+            <!-- App Title -->
+            <Label Text="GreenHub"
+                   FontSize="32"
+                   FontAttributes="Bold"
+                   TextColor="#2E7D32"
+                   HorizontalOptions="Center" />
+
+            <!-- Goals Section -->
+            <Border BackgroundColor="#C8E6C9" StrokeShape="16" Padding="18">
+                <VerticalStackLayout Spacing="10">
+                    <Label Text="Goals" FontSize="22" FontAttributes="Bold" TextColor="#388E3C"/>
+                    <Label Text="• Promote sustainable shopping habits" FontSize="16" TextColor="#2E7D32"/>
+                    <Label Text="• Increase awareness of local genbrugs (reuse shops)" FontSize="16" TextColor="#2E7D32"/>
+                    <Label Text="• Foster community engagement for a greener Denmark" FontSize="16" TextColor="#2E7D32"/>
+                </VerticalStackLayout>
+            </Border>
+
+            <!-- Sustainability Tips Section -->
+            <Border BackgroundColor="#F1F8E9" StrokeShape="16" Padding="18">
+                <VerticalStackLayout Spacing="8">
+                    <Label Text="Local Sustainability Tips" FontSize="20" FontAttributes="Bold" TextColor="#558B2F"/>
+                    <Label Text="• Bring your own bag when shopping" FontSize="15" TextColor="#33691E"/>
+                    <Label Text="• Support local farmers' markets" FontSize="15" TextColor="#33691E"/>
+                    <Label Text="• Use public transport or bike for short trips" FontSize="15" TextColor="#33691E"/>
+                    <Label Text="• Donate or shop at genbrugs for a circular economy" FontSize="15" TextColor="#33691E"/>
+                </VerticalStackLayout>
+            </Border>
+
+            <!-- Campaigns Section -->
+            <Border BackgroundColor="#FFFDE7" StrokeShape="16" Padding="18">
+                <VerticalStackLayout Spacing="8">
+                    <Label Text="Eco-Friendly Campaigns" FontSize="20" FontAttributes="Bold" TextColor="#F9A825"/>
+                    <Label Text="• 'Plastic Free July' – Join the movement to reduce single-use plastics." FontSize="15" TextColor="#795548"/>
+                    <Label Text="• 'Earth Hour Denmark' – Turn off lights to support climate action." FontSize="15" TextColor="#795548"/>
+                    <Label Text="• 'Genbrugsmode' – Participate in local upcycling fashion events." FontSize="15" TextColor="#795548"/>
+                </VerticalStackLayout>
+             </Border>
+
+            <!-- Inspirational Quotes Section -->
+            <Border BackgroundColor="#E3F2FD" StrokeShape="16" Padding="18">
+                <VerticalStackLayout Spacing="8">
+                    <Label Text="Inspirational Quotes" FontSize="20" FontAttributes="Bold" TextColor="#1976D2"/>
+                    <Label Text="“Mange bække små gør en stor å.”" FontSize="15" TextColor="#1565C0"/>
+                    <Label Text="“The greatest threat to our planet is the belief that someone else will save it.”" FontSize="15" TextColor="#1565C0"/>
+                    <Label Text="“Genbrug er guld for miljøet.”" FontSize="15" TextColor="#1565C0"/>
+                </VerticalStackLayout>
+            </Border>
+
+            <!-- Go to Discussions Button -->
+            <Button
+                x:Name="GoToDiscussionsBtn"
+                Text="Go to Discussions"
+                Clicked="OnGoToDiscussionsClicked"
+                HorizontalOptions="Fill" />
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>
