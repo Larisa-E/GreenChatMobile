@@ -29,26 +29,23 @@ The `ApiService` class provides methods for interacting with the backend:
 
 ### Authentication
 - **Register**
-await apiService.RegisterAsync("username", "email@example.com", "password");
+<pre> await apiService.RegisterAsync("username", "email@example.com", "password"); </pre>
 - **Login**
-await apiService.LoginAsync("username", "password");
+<pre> await apiService.LoginAsync("username", "password"); </pre>
 
 ### Chat
 - **Start Chat Connection**
-await apiService.StartChatAsync();
+<pre> await apiService.StartChatAsync(); </pre>
 - **Send Message**
-await apiService.SendMessageAsync("YourUserName", "Hello, world!");
+<pre> await apiService.SendMessageAsync("YourUserName", "Hello, world!"); </pre>
 - **Get Test Chat Message**
-string testMessage = await apiService.GetChatTestAsync();
+<pre> string testMessage = await apiService.GetChatTestAsync(); </pre>
 
 ### Threads
 - **Get Threads**
-<pre>
-List&lt;DiscussionThread&gt; threads = await apiService.GetThreadsAsync();
-</pre>
+<pre> List<DiscussionThread> threads = await apiService.GetThreadsAsync(); </pre>
 - **Create Thread**
-var thread = new DiscussionThread { Title = "New Topic", Content = "Let's discuss .NET MAUI!" };
-await apiService.CreateThreadAsync(thread);
+<pre> var thread = new DiscussionThread { Title = "New Topic", Content = "Let's discuss .NET MAUI!" }; await apiService.CreateThreadAsync(thread); </pre>
 
 ---
 
