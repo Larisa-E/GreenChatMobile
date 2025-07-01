@@ -1,4 +1,5 @@
 # GreenChatMobile
 
-![GreenChatMobileMaui (1)](https://github.com/user-attachments/assets/0c0d25ab-2fc6-44d4-9fc7-85eadf262b11)
+![GreenChatMobileMaui](https://github.com/user-attachments/assets/2611ff56-5236-4fb4-a102-07663ee40ebe)
+
 
