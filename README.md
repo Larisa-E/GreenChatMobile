@@ -43,7 +43,9 @@ string testMessage = await apiService.GetChatTestAsync();
 
 ### Threads
 - **Get Threads**
-List<DiscussionThread> threads = await apiService.GetThreadsAsync();
+<pre>
+List&lt;DiscussionThread&gt; threads = await apiService.GetThreadsAsync();
+</pre>
 - **Create Thread**
 var thread = new DiscussionThread { Title = "New Topic", Content = "Let's discuss .NET MAUI!" };
 await apiService.CreateThreadAsync(thread);
